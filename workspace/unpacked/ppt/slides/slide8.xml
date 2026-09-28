@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+       xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+       xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="100" name="Background"/>
+          <p:cNvSpPr><a:spLocks noGrp="1"/></p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="0" y="0"/><a:ext cx="12192000" cy="6858000"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="0D1B2A"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:cxnSp>
+        <p:nvCxnSpPr>
+          <p:cNvPr id="41" name="Line41"/>
+          <p:cNvCxnSpPr/>
+          <p:nvPr/>
+        </p:nvCxnSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="228600" y="685800"/><a:ext cx="11734800" cy="0"/></a:xfrm>
+          <a:prstGeom prst="line"><a:avLst/></a:prstGeom>
+          <a:ln w="19050"><a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill></a:ln>
+        </p:spPr>
+      </p:cxnSp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="50" name="TB50"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="228600" y="190500"/><a:ext cx="8000000" cy="457200"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          
+  <a:p>
+    <a:r><a:rPr lang="en-US" sz="2400" b="1" dirty="0"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:latin typeface="Calibri"/></a:rPr><a:t>References &amp; </a:t></a:r>
+    <a:r><a:rPr lang="en-US" sz="2400" b="1" dirty="0"><a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill><a:latin typeface="Calibri"/></a:rPr><a:t>Key Takeaways</a:t></a:r>
+  </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="60" name="Rect60"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="762000"/><a:ext cx="8610000" cy="914400"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="61" name="Rect61"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="762000"/><a:ext cx="19050" cy="914400"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="62" name="TB62"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="266700" y="838200"/><a:ext cx="8381400" cy="762000"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>GuardrailsAI — Why Use Guardrails?</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Official docs · validators hub · DetectJailbreak</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>guardrailsai.com/docs &amp; guardrailsai.com/hub</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="63" name="Rect63"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="1771800"/><a:ext cx="8610000" cy="914400"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="64" name="Rect64"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="1771800"/><a:ext cx="19050" cy="914400"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="9C27B0"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="65" name="TB65"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="266700" y="1848000"/><a:ext cx="8381400" cy="762000"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="9C27B0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>LangChain + Guardrails Crash Course</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Building Safe AI Agents with LangChain guardrails</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>youtube.com/watch?v=ruiLq0OzjkI</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="66" name="Rect66"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="2781600"/><a:ext cx="8610000" cy="914400"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="67" name="Rect67"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="2781600"/><a:ext cx="19050" cy="914400"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="FFD600"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="68" name="TB68"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="266700" y="2857800"/><a:ext cx="8381400" cy="762000"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="FFD600"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Agentic AI 102 — Guardrails &amp; Evaluation</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Working demo walkthrough · Towards Data Science</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>towardsdatascience.com/agentic-ai-102</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="69" name="Rect69"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="3791400"/><a:ext cx="8610000" cy="914400"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="70" name="Rect70"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="3791400"/><a:ext cx="19050" cy="914400"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="E53935"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="71" name="TB71"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="266700" y="3867600"/><a:ext cx="8381400" cy="762000"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="E53935"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Production Guardrails — Redis</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Agentic AI guardrails at production scale</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>redis.io/blog/agentic-ai-guardrails</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="72" name="Rect72"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="4801200"/><a:ext cx="8610000" cy="914400"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="73" name="Rect73"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="4801200"/><a:ext cx="19050" cy="914400"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="4CAF50"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="74" name="TB74"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="266700" y="4877400"/><a:ext cx="8381400" cy="762000"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="4CAF50"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>LangChain Guardrails Docs</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Integration guide for LangChain OSS Python</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>docs.langchain.com/guardrails</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="90" name="Rect90"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9000000" y="762000"/><a:ext cx="2962800" cy="4191000"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="9525"><a:solidFill><a:srgbClr val="334D6E"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="91" name="TB91"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9076200" y="800100"/><a:ext cx="2819400" cy="380999"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1200" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>🎯 Key Takeaways</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="92" name="TB92"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9076200" y="1143000"/><a:ext cx="2819400" cy="457200"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>✓  Guardrails ≠ prompts. They are enforceable system controls independent of the LLM.</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="92" name="TB92"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9076200" y="1676400"/><a:ext cx="2819400" cy="457200"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>✓  Six layers: Input → Behavioural → Reasoning → Tool → Data/Security → Output</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="92" name="TB92"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9076200" y="2209800"/><a:ext cx="2819400" cy="457200"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>✓  Centralized control plane: every agent hop must be individually guarded.</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="92" name="TB92"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9076200" y="2743200"/><a:ext cx="2819400" cy="457200"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>✓  Guardrails ≠ Governance ≠ Security — complementary, not interchangeable.</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="92" name="TB92"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9076200" y="3276600"/><a:ext cx="2819400" cy="457200"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>✓  Treat failures as feedback: self-correction loops beat simple filters.</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="92" name="TB92"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9076200" y="3810000"/><a:ext cx="2819400" cy="457200"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>✓  Human-in-the-loop is essential for high-risk, irreversible actions.</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="100" name="Rect100"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9000000" y="5029200"/><a:ext cx="2962800" cy="952500"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="0A1929"/></a:solidFill>
+          <a:ln w="28575"><a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="101" name="TB101"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9076200" y="5067300"/><a:ext cx="2819400" cy="876300"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="ctr"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1600" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Build Fast.</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1400" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>But Build Safe.</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1000" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>AI Geeks Tech Talk · 2025</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr>
+</p:sld>

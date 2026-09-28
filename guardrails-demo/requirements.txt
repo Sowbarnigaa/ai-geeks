@@ -1,0 +1,12 @@
+guardrails-ai>=0.5.0
+openai>=1.30.0
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+python-dotenv>=1.0.0
+rich>=13.7.0
+# Hub validators run LOCALLY via on-device models — no Guardrails API key needed.
+# Install each with:  guardrails hub install guardrails/<name>
+# guardrails/detect_jailbreak   -> local transformer model
+# guardrails/toxic_language     -> local classifier
+# guardrails/detect_pii         -> local NER model (presidio)
+# guardrails/valid_length       -> pure Python, no model

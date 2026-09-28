@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "git-commit-release-helper": {
+      "source": ".",
+      "sourceType": "local",
+      "computedHash": "8dd53ea35cf6907e9dd72b184d080501fb3c3977745df0445e9ff129a43d32a8"
+    }
+  }
+}

@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+       xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+       xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <p:cSld>
+    <p:spTree>
+      <p:nvGrpSpPr>
+        <p:cNvPr id="1" name=""/>
+        <p:cNvGrpSpPr/>
+        <p:nvPr/>
+      </p:nvGrpSpPr>
+      <p:grpSpPr>
+        <a:xfrm>
+          <a:off x="0" y="0"/>
+          <a:ext cx="0" cy="0"/>
+          <a:chOff x="0" y="0"/>
+          <a:chExt cx="0" cy="0"/>
+        </a:xfrm>
+      </p:grpSpPr>
+      
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="100" name="Background"/>
+          <p:cNvSpPr><a:spLocks noGrp="1"/></p:cNvSpPr>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="0" y="0"/><a:ext cx="12192000" cy="6858000"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="0D1B2A"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:cxnSp>
+        <p:nvCxnSpPr>
+          <p:cNvPr id="41" name="Line41"/>
+          <p:cNvCxnSpPr/>
+          <p:nvPr/>
+        </p:nvCxnSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="228600" y="685800"/><a:ext cx="11734800" cy="0"/></a:xfrm>
+          <a:prstGeom prst="line"><a:avLst/></a:prstGeom>
+          <a:ln w="19050"><a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill></a:ln>
+        </p:spPr>
+      </p:cxnSp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="50" name="TB50"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="228600" y="190500"/><a:ext cx="11734800" cy="457200"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          
+  <a:p>
+    <a:r><a:rPr lang="en-US" sz="2400" b="1" dirty="0"><a:solidFill><a:srgbClr val="FFFFFF"/></a:solidFill><a:latin typeface="Calibri"/></a:rPr><a:t>Centralized Guardrails &#8212; </a:t></a:r>
+    <a:r><a:rPr lang="en-US" sz="2400" b="1" dirty="0"><a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill><a:latin typeface="Calibri"/></a:rPr><a:t>Agentic AI Control Plane</a:t></a:r>
+  </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="60" name="Rect60"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="762000"/><a:ext cx="2743200" cy="990600"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="9525"><a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="61" name="Rect61"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="762000"/><a:ext cx="19050" cy="990600"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="62" name="TB62"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="190500" y="838200"/><a:ext cx="2590800" cy="838200"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>User / Client</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Web · Mobile · PC
+Sends user query with identity context</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="60" name="Rect60"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="2514600"/><a:ext cx="2743200" cy="990600"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="9525"><a:solidFill><a:srgbClr val="9C27B0"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="61" name="Rect61"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="2514600"/><a:ext cx="19050" cy="990600"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="9C27B0"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="62" name="TB62"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="190500" y="2590800"/><a:ext cx="2590800" cy="838200"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="9C27B0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Multiple Agents</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Orchestrator → Sub-agents → Tool agents
+Each hop must be guarded independently</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="60" name="Rect60"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="4267200"/><a:ext cx="2743200" cy="990600"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="9525"><a:solidFill><a:srgbClr val="FFD600"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="61" name="Rect61"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="114300" y="4267200"/><a:ext cx="19050" cy="990600"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="FFD600"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="62" name="TB62"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="190500" y="4343400"/><a:ext cx="2590800" cy="838200"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="FFD600"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>External Tools / APIs</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>DB · Payment API · Email · Code runner
+Real-world irreversible side-effects</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="70" name="Rect70"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="3200400" y="762000"/><a:ext cx="5600000" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="19050"><a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="71" name="TB71"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="3314700" y="838200"/><a:ext cx="5371600" cy="647700"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>🔑 Gateway Layer</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>AuthN · AuthZ · Rate Limiting
+→ 401 / 429 on fail</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="80" name="TB80"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="4800000" y="1562100"/><a:ext cx="400000" cy="104900"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="ctr"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1400" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>↓</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="72" name="Rect72"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="3200400" y="1905000"/><a:ext cx="5600000" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="19050"><a:solidFill><a:srgbClr val="9C27B0"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="73" name="TB73"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="3314700" y="1981200"/><a:ext cx="5371600" cy="647700"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="9C27B0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>🛡 Input Guardrail Layer</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Prompt injection · PII redaction · Content mod
+→ Fallback "Sorry, I can't help"</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="81" name="TB81"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="4800000" y="2705100"/><a:ext cx="400000" cy="104900"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="ctr"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1400" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>↓</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="74" name="Rect74"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="3200400" y="3048000"/><a:ext cx="5600000" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="19050"><a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="75" name="TB75"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="3314700" y="3124200"/><a:ext cx="5371600" cy="647700"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="00B0F0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>🤖 Agent Core (LLM + Tools)</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Reasoning · Planning · Tool calls
+↔ Sandboxed execution</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="82" name="TB82"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="4800000" y="3848100"/><a:ext cx="400000" cy="104900"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="ctr"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1400" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>↓</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="76" name="Rect76"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="3200400" y="4191000"/><a:ext cx="5600000" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="19050"><a:solidFill><a:srgbClr val="4CAF50"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="77" name="TB77"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="3314700" y="4267200"/><a:ext cx="5371600" cy="647700"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="4CAF50"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>✅ Output Guardrail Layer</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Hallucination · Schema · PII scrub
+→ Retry loop max 2 · then safe fallback</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="83" name="TB83"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="4800000" y="4991100"/><a:ext cx="400000" cy="104900"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="ctr"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1400" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>↓</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="78" name="Rect78"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="3200400" y="5334000"/><a:ext cx="5600000" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="19050"><a:solidFill><a:srgbClr val="334D6E"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="79" name="TB79"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="3314700" y="5410200"/><a:ext cx="5371600" cy="647700"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1100" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="334D6E"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>📋 Audit Log &amp; Traces</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="950" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Every decision recorded for compliance &amp; debugging</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="90" name="Rect90"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9029400" y="762000"/><a:ext cx="2857500" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="9525"><a:solidFill><a:srgbClr val="E53935"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="91" name="Rect91"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9029400" y="762000"/><a:ext cx="19050" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="E53935"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="92" name="TB92"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9105600" y="819150"/><a:ext cx="2743200" cy="685800"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1000" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="E53935"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>🚫 Rejected at Gateway</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>401 Unauthorized
+429 Rate Limited</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="92" name="Rect92"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9029400" y="1905000"/><a:ext cx="2857500" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="9525"><a:solidFill><a:srgbClr val="FFA726"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="93" name="Rect93"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9029400" y="1905000"/><a:ext cx="19050" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="FFA726"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="94" name="TB94"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9105600" y="1962150"/><a:ext cx="2743200" cy="685800"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1000" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="FFA726"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>⚠ Fallback Response</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>"Sorry, I can't help with that"
+Unsafe input blocked pre-LLM</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="94" name="Rect94"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9029400" y="3048000"/><a:ext cx="2857500" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="9525"><a:solidFill><a:srgbClr val="9C27B0"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="95" name="Rect95"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9029400" y="3048000"/><a:ext cx="19050" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="9C27B0"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="96" name="TB96"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9105600" y="3105150"/><a:ext cx="2743200" cy="685800"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1000" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="9C27B0"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>🔒 Action Blocked</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Unauthorized tool / data access denied</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="96" name="Rect96"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9029400" y="4191000"/><a:ext cx="2857500" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="9525"><a:solidFill><a:srgbClr val="00B4D8"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="97" name="Rect97"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9029400" y="4191000"/><a:ext cx="19050" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="00B4D8"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="98" name="TB98"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9105600" y="4248150"/><a:ext cx="2743200" cy="685800"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1000" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="00B4D8"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>👤 Human Review Queue</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>High-risk / irreversible actions
+Approve / Deny before execution</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="98" name="Rect98"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9029400" y="5334000"/><a:ext cx="2857500" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="roundRect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="111E30"/></a:solidFill>
+          <a:ln w="9525"><a:solidFill><a:srgbClr val="4CAF50"/></a:solidFill></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="99" name="Rect99"/>
+          <p:cNvSpPr/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9029400" y="5334000"/><a:ext cx="19050" cy="800100"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:solidFill><a:srgbClr val="4CAF50"/></a:solidFill>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody><a:bodyPr/><a:lstStyle/><a:p><a:endParaRPr lang="en-US"/></a:p></p:txBody>
+      </p:sp>
+      <p:sp>
+        <p:nvSpPr>
+          <p:cNvPr id="100" name="TB100"/>
+          <p:cNvSpPr txBox="1"/>
+          <p:nvPr/>
+        </p:nvSpPr>
+        <p:spPr>
+          <a:xfrm><a:off x="9105600" y="5391150"/><a:ext cx="2743200" cy="685800"/></a:xfrm>
+          <a:prstGeom prst="rect"><a:avLst/></a:prstGeom>
+          <a:noFill/>
+          <a:ln><a:noFill/></a:ln>
+        </p:spPr>
+        <p:txBody>
+          <a:bodyPr wrap="square" rtlCol="0" anchor="t"><a:normAutofit/></a:bodyPr>
+          <a:lstStyle/>
+          <a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="1000" b="1" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="4CAF50"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>✅ Validated Response</a:t>
+              </a:r>
+            </a:p>
+<a:p>
+              <a:r>
+                <a:rPr lang="en-US" sz="900" b="0" i="0" dirty="0">
+                  <a:solidFill><a:srgbClr val="B0BEC5"/></a:solidFill>
+                  <a:latin typeface="Calibri"/>
+                </a:rPr>
+                <a:t>Safe, grounded, PII-free output delivered</a:t>
+              </a:r>
+            </a:p>
+        </p:txBody>
+      </p:sp>
+    </p:spTree>
+  </p:cSld>
+  <p:clrMapOvr><a:masterClrMapping/></p:clrMapOvr>
+</p:sld>

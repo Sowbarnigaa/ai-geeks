@@ -1,0 +1,7 @@
+level	page_num	block_num	par_num	line_num	word_num	left	top	width	height	conf	text
+1	1	0	0	0	0	0	0	240	580	-1	
+2	1	1	0	0	0	233	8	7	420	-1	
+3	1	1	1	0	0	233	8	7	420	-1	
+4	1	1	1	1	0	233	8	7	420	-1	
+5	1	1	1	1	1	233	8	7	420	50.444851	Sell
+5	1	1	1	1	2	224	154	16	94	34.483875	Too
